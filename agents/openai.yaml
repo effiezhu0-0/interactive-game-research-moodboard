@@ -1,0 +1,8 @@
+interface:
+  display_name: "Interactive Game Research & Moodboard"
+  short_description: "Research interactive games and build evidence-backed moodboards"
+  default_prompt: "Use $interactive-game-research-moodboard to research this interactive game brief and build a direction-led moodboard."
+
+policy:
+  allow_implicit_invocation: true
+
