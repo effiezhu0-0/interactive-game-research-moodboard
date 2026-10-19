@@ -1,5 +1,5 @@
 interface:
-  display_name: "Interactive Game Research & Moodboard"
+  display_name: "互动竞品分析&情绪板"
   short_description: "Research interactive games and build evidence-backed moodboards"
   default_prompt: "Use $interactive-game-research-moodboard to research this interactive game brief and build a direction-led moodboard."
 

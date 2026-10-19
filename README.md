@@ -1,4 +1,4 @@
-## Interactive Game Research & Moodboard
+## 互动竞品分析&情绪板
 
 ### 基础信息
 
@@ -11,6 +11,10 @@
 所属业务域：互动域
 
 当前状态：已应用 v2.0
+
+显示名称：互动竞品分析&情绪板
+
+显式唤起：`interactive-game-research-moodboard`
 
 #### 目标
 
