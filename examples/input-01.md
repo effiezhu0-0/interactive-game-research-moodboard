@@ -1,9 +1,13 @@
 # 示例输入
 
-请用 interactive-game-research-moodboard 调研「JOY 游记」。
+直接唤起 `interactive-game-research-moodboard`，或：
 
-- 背景：京东内的放置养成旅行游戏，用户派出 JOY 后等待旅行结果并收集纪念物。
-- 玩法：放置养成、旅行收集、回访领取。
-- 目标：提升回访与长期留存。
-- 当前范围：先只做竞品和用户反馈，不进入视觉方向。
-- 附件：现有 PRD 与产品截图。
+请用 `interactive-game-research-moodboard` 调研「JOY 游记」。
+
+项目名称：JOY游记
+
+玩法：放置养成
+
+目标：提升回访与长期留存。
+
+附件：现有 PRD 与产品 demo 截图。
