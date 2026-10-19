@@ -14,7 +14,7 @@
 
 显示名称：互动竞品分析&情绪板
 
-显式唤起：`interactive-game-research-moodboard`
+展示与自然语言调用：互动竞品分析&情绪板
 
 #### 目标
 

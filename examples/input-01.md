@@ -1,8 +1,8 @@
 # 示例输入
 
-直接唤起 `interactive-game-research-moodboard`，或：
+直接唤起「互动竞品分析&情绪板」，或：
 
-请用 `interactive-game-research-moodboard` 调研「JOY 游记」。
+请用「互动竞品分析&情绪板」调研「JOY游记」。
 
 项目名称：JOY游记
 
