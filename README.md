@@ -26,8 +26,8 @@
 
 ### 输出
 
-1. `interactive-game-research-<project-slug>.html`：竞品调研与用户反馈证据板。
-2. `interactive-game-visual-reference-<project-slug>.html`：经确认方向的视觉参考板。
+1. `competitor-research-<project-slug>.html`：竞品调研与用户反馈证据板。
+2. `moodboard-<project-slug>.html`：经确认方向的视觉参考板。
 3. 审计所需的来源链接、截图、日期、限制与素材清单。
 
 ### 依赖资料

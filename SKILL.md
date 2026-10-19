@@ -188,7 +188,7 @@ Present candidate evidence grouped by the four dimensions and flag coverage gaps
 
 ### First HTML Output
 
-After confirmation, create `interactive-game-research-<project-slug>.html`. It contains:
+After confirmation, create `competitor-research-<project-slug>.html`. It contains:
 
 - Project brief and research scope
 - Exactly four core conclusion cards in a 2x2 grid, each with one or two supporting screenshots
@@ -228,7 +228,7 @@ For every approved direction, collect 10 references before delivering the visual
 
 ### Second HTML Output
 
-Create `interactive-game-visual-reference-<project-slug>.html` containing only the approved three directions and their visual evidence:
+Create `moodboard-<project-slug>.html` containing only the approved three directions and their visual evidence:
 
 - Direction name, rationale, visual principles, and interaction implication
 - A stable 5-column by 2-row grid per direction

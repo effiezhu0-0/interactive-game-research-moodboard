@@ -1,13 +1,8 @@
 # 示例输出
 
-# JOY游记｜调研交付完成
+# 调研交付完成
 
-已完成竞品、用户反馈、官方趋势与视觉参考采集，并在确认节点后生成以下本地交付物：
-
-```text
-interactive-game-research-joy-travel.html
-interactive-game-visual-reference-joy-travel.html
-```
+已完成竞品、用户反馈、官方趋势与视觉参考采集，并在确认节点后生成两份本地 HTML 交付物。
 
 ## 用户反馈与竞品调研 HTML
 
